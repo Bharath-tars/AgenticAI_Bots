@@ -4,4 +4,7 @@ This repo consists of all the agentic ai bots developed for study, practise, res
 #Bots info
 ## 1) Stock prices Bot
 ##### Filename: stockprices_bot.py
+##### Description: Assists with a range of financial data retrieval and analysis tasks, including getting current stock prices, stock fundamentals, analyst recommendations, and company news.
+##### Tech Stack Used: Python, Phidata, Groq, YFinanceTools, DuckDuckGo-search, Llama3
+#### UI and Execution Screenshot
 ##### ![Bot Screenshot](images/stocks.png)
