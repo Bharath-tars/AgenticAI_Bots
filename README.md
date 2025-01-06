@@ -1,5 +1,5 @@
 # AgenticAI_Bots
-This repo consists of all the agentic ai bots developed for study, practise, research. 
+This repo consists of all the agentic ai bots developed for practise, research. 
 
 #Bots info
 ## 1) Stock prices Bot
